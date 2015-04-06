@@ -16,4 +16,13 @@ Phabricator
 
 准备
 ----
-测试Autoclose: Fixes T3
+* 测试Autoclose: Fixes T3
+ * A 修改代码 并 arc diff , commit内容为Fixes Tn
+ * B Review 后
+ * A arc amend
+
+添加安装过程纲要
+----
+1.
+2.
+3.
