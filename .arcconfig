@@ -1,0 +1,5 @@
+{
+  "project.name" : "[phabricator使用入门]项目",
+  "phabricator.uri" : "http://www.phabricator.cn/",
+  "repository.callsign": "PPH"
+}
